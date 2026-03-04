@@ -7,6 +7,6 @@
 ```json
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>Univearth/renovate-config"]
+  "extends": ["github>yashikota/renovate-config"]
 }
 ```
