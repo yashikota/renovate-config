@@ -9,7 +9,7 @@
   ],
   "dependencyDashboard": false,
   "configMigration": true,
-  "minimumReleaseAge": "7 days",
+  "minimumReleaseAge": "3 days",
   "automerge": true,
   "platformAutomerge": true,
   "packageRules": [
