@@ -38,6 +38,11 @@
       "matchDatasources": ["docker"],
       "matchUpdateTypes": ["digest", "pinDigest", "pin"],
       "minimumReleaseAge": null
+    },
+    {
+      "description": "Ignore lockfile min age",
+      "matchUpdateTypes": ["lockFileMaintenance", "lockfileUpdate"],
+      "minimumReleaseAge": null
     }
   ]
 }
